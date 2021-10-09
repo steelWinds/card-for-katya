@@ -1,6 +1,0 @@
-.box {
-  @mixin wh 100%, 0;
-  @mixin pos relative;
-
-  background-color: black;
-}
