@@ -90,7 +90,7 @@ typings/
 # Storybook build outputs
 .out
 .storybook-out
-storybook-static
+storybook-staticc
 
 # Gatsby files
 .cache/
