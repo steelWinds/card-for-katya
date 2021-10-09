@@ -10,6 +10,7 @@
 /* Fonts */
 
 @import '../fonts/OpenSans/openSansFont';
+@import '../fonts/Urbanist/urbanist';
 
 /* Components */
 
@@ -17,6 +18,10 @@
 @import './styled-components/header';
 @import './styled-components/wrapper';
 @import './styled-components/main';
+@import './styled-components/box';
+@import './styled-components/contentCard';
+@import './styled-components/player';
+@import './styled-components/gallary';
 
 /* Modifications */
 

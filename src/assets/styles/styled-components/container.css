@@ -1,4 +1,26 @@
 .container {
-  @mixin wh 100%, 100%;
-  @mixin flex-box column, center, center;
+  @mixin wh 100%, 1px;
+  @mixin flex-box row, center, flex-start, nowrap;
+  @mixin pos relative;
+
+  min-height: 100vh;
+
+  overflow: hidden;
+
+  &_active {
+    height: 100%;
+    align-items: center;
+    
+    background-color: black;
+  }
+
+  &_scrollMode {
+    overflow-y: auto;
+  }
+
+  &_columnMode {
+    padding-top: 400px;
+    padding-bottom: 1em;
+    align-items: flex-start;
+  }
 }

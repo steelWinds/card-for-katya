@@ -2,4 +2,8 @@
   @mixin wh 100%, auto;
 
   max-width: $w-size-normal;
+
+  &_small {
+    max-width: $w-size-small;
+  }
 }

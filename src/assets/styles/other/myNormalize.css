@@ -18,3 +18,7 @@ button {
   background: transparent;
   cursor: pointer;
 }
+
+html.sr .load-hidden {
+  visibility: hidden;
+}

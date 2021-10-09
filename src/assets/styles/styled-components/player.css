@@ -1,0 +1,36 @@
+.player {
+  @mixin wh 100%, auto;
+  @mixin pos relative;
+
+  padding-top: 100%;
+
+  opacity: 0;
+
+  transition: all .6s ease;
+
+  &_active {
+    display: flex !important;
+  }
+
+  &_shadows {
+    box-shadow: 0 0 30px 10px rgba(255, 255, 255, .5);
+  }
+
+  &__wrapper {
+    @mixin pos absolute, auto, auto, auto, auto;
+    @mixin wh 100%, auto;
+
+    display: none;
+    max-width: 420px;
+    padding: 0 1em;
+  }
+
+  &__img {
+    @mixin wh 100%, 100%;
+    @mixin pos absolute, 0, auto, 0, auto;
+
+    display: block;
+
+    object-fit: cover;
+  }
+}
