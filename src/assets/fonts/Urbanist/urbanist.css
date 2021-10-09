@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'Urbanist';
+    src: url('../fonts/Urbanist/Urbanist-Medium.eot');
+    src: url('../fonts/Urbanist/Urbanist-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Urbanist/Urbanist-Medium.woff2') format('woff2'),
+        url('../fonts/Urbanist/Urbanist-Medium.woff') format('woff'),
+        url('../fonts/Urbanist/Urbanist-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbanist';
+    src: url('../fonts/Urbanist/Urbanist-Light.eot');
+    src: url('../fonts/Urbanist/Urbanist-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Urbanist/Urbanist-Light.woff2') format('woff2'),
+        url('../fonts/Urbanist/Urbanist-Light.woff') format('woff'),
+        url('../fonts/Urbanist/Urbanist-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbanist';
+    src: url('../fonts/Urbanist/Urbanist-Bold.eot');
+    src: url('../fonts/Urbanist/Urbanist-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Urbanist/Urbanist-Bold.woff2') format('woff2'),
+        url('../fonts/Urbanist/Urbanist-Bold.woff') format('woff'),
+        url('../fonts/Urbanist/Urbanist-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbanist';
+    src: url('../fonts/Urbanist/Urbanist-Regular.eot');
+    src: url('../fonts/Urbanist/Urbanist-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Urbanist/Urbanist-Regular.woff2') format('woff2'),
+        url('../fonts/Urbanist/Urbanist-Regular.woff') format('woff'),
+        url('../fonts/Urbanist/Urbanist-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urbanist';
+    src: url('../fonts/Urbanist/Urbanist-SemiBold.eot');
+    src: url('../fonts/Urbanist/Urbanist-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Urbanist/Urbanist-SemiBold.woff2') format('woff2'),
+        url('../fonts/Urbanist/Urbanist-SemiBold.woff') format('woff'),
+        url('../fonts/Urbanist/Urbanist-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
