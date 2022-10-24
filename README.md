@@ -3,7 +3,7 @@
 
 # card-for-katya
 
-It's surptise card for my girlfriend by name Katya
+It's surptise card for my girlfriend by name Katya.
 
 ## LICENSE 
 
